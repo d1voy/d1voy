@@ -10,9 +10,9 @@ I'm a **security researcher** passionate about uncovering vulnerabilities, devel
    Focused on the **Power Platform ecosystem**, where I identify vulnerabilities and design novel attack techniques targeting platforms like **Power Automate, Power Apps, and Copilot Studio**.
 
 2. **AI Security**  
-   Exploring the frontier of **AI hacking** — from bypassing protections in **Microsoft 365 Copilot, Copilot Studio, ChatGPT,** and other LLM platforms, to developing promptware and detection strategies.
+   Researching and developing attack vectors targeting platforms like Microsoft 365 Copilot, Copilot Studio, ChatGPT, and other LLM ecosystems. My work includes promptware and detections development.
 
-3. **Bug Bounty Research**  
+3. **Bug Bounty and Research**  
    Active participant in **Microsoft’s Bug Bounty programs**, with multiple acknowledgments on the [MSRC recognition page](https://msrc.microsoft.com/update-guide/acknowledgement/).
 
 4. **Additional Interests**  
