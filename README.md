@@ -25,7 +25,7 @@ I'm a **security researcher** passionate about uncovering vulnerabilities, devel
 
 ## Public Research
 I contributed to research for several industry talks:
-- [Black Hat USA 2024 – “Ways to Break Your Copilot”](https://www.blackhat.com/us-24/briefings/schedule/index.html#-ways-to-break-your-copilot-39770)  
+- [Black Hat USA 2024 – “15 Ways to Break Your Copilot”](https://www.blackhat.com/us-24/briefings/schedule/index.html#-ways-to-break-your-copilot-39770)  
 - [Black Hat USA 2025 – “AI Enterprise Compromise: 0-Click Exploit Methods”](https://www.blackhat.com/us-25/briefings/schedule/index.html#ai-enterprise-compromise---0click-exploit-methods-46442)
 
 ---
