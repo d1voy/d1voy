@@ -49,7 +49,9 @@ I contributed to research for several industry talks:
 - [The Hacker News: Microsoft SharePoint Connector Flaw](https://thehackernews.com/2025/02/microsoft-sharepoint-connector-flaw.html)  
 - [TechRadar: A worrying security flaw could have left Microsoft SharePoint users open to attack](https://www.techradar.com/pro/security/a-worrying-security-flaw-could-have-left-microsoft-sharepoint-users-open-to-attack)  
 - [CybersecurityNews: Microsoft SharePoint Connector Vulnerability](https://cybersecuritynews.com/microsoft-sharepoint-connector-vulnerability/)
-The research was also highlighted by [Intel Capital on Linkedin](https://www.linkedin.com/posts/intelcapital_a-worrying-security-flaw-could-have-left-activity-7294837483685494784-AonN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACd0jGMBBaYieFkWdAZA-uey0gwG6tnWih8)
+
+The research was also highlighted by **Intel Capital** on [Linkedin](https://www.linkedin.com/posts/intelcapital_a-worrying-security-flaw-could-have-left-activity-7294837483685494784-AonN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACd0jGMBBaYieFkWdAZA-uey0gwG6tnWih8)
+
 ---
 
 ## CTF & HackTheBox
