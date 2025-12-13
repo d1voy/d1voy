@@ -20,6 +20,7 @@ I'm a **security researcher** passionate about uncovering vulnerabilities, devel
 
 5. **Community Contributions**  
    Contributor to the [GenAI Attack Matrix](https://ttps.ai/), advancing industry-wide understanding of AI attack techniques.
+6. Contributor to the [MITRE ATLAS](https://atlas.mitre.org/resources/contribute) project. 
 
 ---
 
