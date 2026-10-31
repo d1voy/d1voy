@@ -6,21 +6,21 @@ I'm a **security researcher** passionate about uncovering vulnerabilities, devel
 
 ## Areas of Expertise
 
-1. **Low-Code / No-Code Security**  
+1. **AI Security**  
+   Researching and developing attack vectors targeting platforms like Microsoft 365 Copilot, Copilot Studio, ChatGPT, and other LLM ecosystems. My work includes promptware and detections development.
+   
+3. **Low-Code / No-Code Security**  
    Focused on the **Power Platform ecosystem**, where I identify vulnerabilities and design novel attack techniques targeting platforms like **Power Automate, Power Apps, and Copilot Studio**.
 
-2. **AI Security**  
-   Researching and developing attack vectors targeting platforms like Microsoft 365 Copilot, Copilot Studio, ChatGPT, and other LLM ecosystems. My work includes promptware and detections development.
-
-3. **Bug Bounty and Research**  
+4. **Bug Bounty and Research**  
    Active participant in **Microsoft’s Bug Bounty programs**, with multiple acknowledgments on the [MSRC recognition page](https://msrc.microsoft.com/update-guide/acknowledgement/).
 
-4. **Additional Interests**  
+5. **Additional Interests**  
    Deeply interested in **cloud security research**, **APIs**, and **web application security**.
 
-5. **Community Contributions**  
+6. **Community Contributions**  
    Contributor to the [GenAI Attack Matrix](https://ttps.ai/), advancing industry-wide understanding of AI attack techniques.
-6. Contributor to the [MITRE ATLAS](https://atlas.mitre.org/resources/contribute) project. 
+7. Contributor to the [MITRE ATLAS](https://atlas.mitre.org/resources/contribute) project. 
 
 ---
 
