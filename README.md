@@ -33,6 +33,9 @@ I contributed to research for several industry talks:
 
 ## My Publications
 
+- [AgentCorruption: One Role to Rule Them All](https://labs.zenity.io/post/agentcorruption-one-role-to-rule-them-all)
+- [AgentCorruption: Initial IMDS Access](https://labs.zenity.io/post/agentcorruption-initial-imds-access)
+- [It's Always DNS in Claude’s Sandbox: From Data Exfiltration to a Bidirectional DNS Shell](https://labs.zenity.io/post/it-s-always-dns-in-claude-s-sandbox-from-data-exfiltration-to-a-bidirectional-dns-shell)
 - [AgentFlayer: Minimum Clicks, Maximum Leaks – Tilling ChatGPT’s Attack Surface](https://labs.zenity.io/p/agentflayer-minimum-clicks-maximum-leaks-tilling-chatgpt-s-attack-surface-c4c7)  
 - [I Just Wanted to Take a Note... and Your Token Came Along](https://labs.zenity.io/p/i-just-wanted-to-take-a-note-and-your-token-came-along-c615)  
 - [The Power of One SSRF Vulnerability – A Multi-Platform Threat](https://labs.zenity.io/p/the-power-of-one-ssrf-vulnerability-a-multi-platform-threat)  
